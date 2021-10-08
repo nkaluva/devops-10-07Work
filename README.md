@@ -6,6 +6,6 @@ This is Devops bsest repo
 * `hello.py`: code
 * `test_hello.py`:Test code
 
-Also incldue builder server YAML files;
+Also include builder server YAML files;
 
 *Gi
