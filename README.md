@@ -1,11 +1,19 @@
-# devops-10-07Work
-This is Devops bsest repo
-## create a scffold
-* `requirements.txt`: pacakges
-* `Makefile`: cookbook run commands
-* `hello.py`: code
-* `test_hello.py`:Test code
+[![Click CLI Test](https://github.com/noahgift/devops-10-07/actions/workflows/blank.yml/badge.svg)](https://github.com/noahgift/devops-10-07/actions/workflows/blank.yml)
 
-Also include builder server YAML files;
+# devops-10-07
+This is a DevOps Best Practices Repo
 
-*Gi
+To get started do this:
+
+`source ~/.venv/bin/activate`
+
+## Create a scaffold
+
+* `requirements.txt`: packages
+* `Makefile`:  Cookbook runs commands
+* `app.py`: Code
+* `test_app.py`: Test Code
+
+Also include build server YAML files:
+
+* Github Actions Config Files
